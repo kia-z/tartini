@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Tartinians in Europe</title>
+    {{ partial "head.html" . }}
+
+  </head>
+  <body>
+    {{ partial "navbar.html" . }}
+    {{ block "main" . }}
+    {{ partial "footer.html" . }}
+    {{ end }}
+  </body>
+</html>

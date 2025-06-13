@@ -1,0 +1,33 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Tartinians in Europe'
+
+[params]
+    copyright = "Chiara Zuanni 2025."
+    description = "FWF WEAVE Project Tartinians in Europe"
+    profilePicture = "/images/tartini.jpg"
+    mainSections = []
+    singleDateFormat = "2/1/2006"
+
+[[params.socialIcons]]
+icon = "fab fa-instagram"
+title = "instagram"
+url = "https://www.instagram.com/tartiniansineurope/#"
+
+[[menu.main]]
+  name = "Home"
+  url = "/tartinians/"
+  weight = 1
+
+[[menu.main]]
+  name = "Posts"
+  url = "/tartinians/posts"
+  weight = 2
+
+[[menu.main]]
+  name = "About"
+  url = "/tartinians/about"
+  weight = 3
+
+[taxonomies]
+  tag = "tags"

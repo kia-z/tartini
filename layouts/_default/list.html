@@ -1,0 +1,30 @@
+{{ define "main" }}
+<div class="container pt-5">
+  <h1>Blog posts</h1>
+  <p>Welcome to our blog! Here, you'll find a collection of posts that cover our work on Tartini</p>
+  <hr>
+</div>
+<div class="container">
+    <div class="row g-3">
+      {{ range .Pages }}
+      {{ if eq .Type "posts" }}
+      <div class="col-lg-4 col-md-6 d-flex" style="margin-top: 10px; margin-bottom: 10px;">
+      <div class="card-group">
+        <div class="card">
+          <img class="card-img-top" src='{{ .Params.thumbnail }}' style="max-width: 100%;">
+          <div class="card-body">
+            <h5 class="card-title">{{ .Title }}</h5>
+            <i><span>{{ .Date.Format "2 Jan 2006" }}</span></i>
+          <hr>
+          <p class="card-text">{{ .Params.shortDesc }}</p> 
+            <a href="{{ .RelPermalink }}">Read more</a> 
+          </div>
+        </div>
+      </div>
+      </div>
+      {{ end }}
+      {{ end }}
+    </div>
+  </div>
+  {{ partial "footer.html" . }}
+{{ end }}

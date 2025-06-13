@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tartinians in Europe</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Tartinians in Europe</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 13 Jun 2025 19:25:35 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Third Post</title>
+      <link>http://localhost:1313/posts/my-third-post/</link>
+      <pubDate>Fri, 13 Jun 2025 19:25:35 +0200</pubDate>
+      <guid>http://localhost:1313/posts/my-third-post/</guid>
+      <description>&lt;p&gt;sdfjodsjfdslfökdslkf&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Second Post</title>
+      <link>http://localhost:1313/posts/my-second-post/</link>
+      <pubDate>Fri, 13 Jun 2025 19:18:46 +0200</pubDate>
+      <guid>http://localhost:1313/posts/my-second-post/</guid>
+      <description>&lt;p&gt;sjfdijgdö-gjmfdöjfödö-köfldskf&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Fri, 13 Jun 2025 19:18:37 +0200</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;fjdiojgdgjöofdakmglbfdölmaälmvölfd&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h3 id=&#34;transmitting-musical-knowledge-in-eighteenth-century-european-violin-playing-tartinis-scuola-delle-nazioni-in-light-of-its-transnational-networks-pupils-patrons-printers&#34;&gt;Transmitting Musical Knowledge in Eighteenth Century European Violin Playing: Tartini’s Scuola delle Nazioni in Light of its Transnational Networks (Pupils, Patrons, Printers)&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;FWF Weave (2025-2028)&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Trotz des insgesamt gesteigerten Interesses konzentriert sich die Erforschung Giuseppe Tartinis weithin auf musikphilologische und aufführungspraktische Aspekte seiner Geigenwerke sowie auf seine Aktivitäten als Musiktheoretiker. Während Tartinis „Schule der Nationen“ mit ihren mehr als 100 Schüler:innen wohl bekannt ist, steht die tiefergehende Kontextualisierung seiner Lehrtätigkeit im Europa des 18. Jahrhunderts noch aus – ebenso wie die Entwicklung eines integralen Zugangs für das Verständnis von Lehrer-Schüler-Verhältnissen innerhalb der je nach Sprachraum oder Musikleben teils stark divergierenden professionellen Umgebungen. Das Projekt basiert auf der These, dass Tartinis ‚Schule‘ eine Vorreiterrolle für ein modernes Konzept musikalischer Ausbildung darstellt. Seine Schüler:innen erhielten vielschichtige Lernangebote für eine bestmögliche Integration in das professionelle Musikleben. Es stellt sich die Frage, inwiefern sich die Schule selbst als Instrumentalschule definierte. Eine Untersuchung der europaweiten Netzwerke von Tartinis Schüler:innen, ihrer Integration in die Musikmärkte sowie die Verbreitung ihrer musikalischen Werke und Traktate wird sowohl didaktische Traditionen der ‚Schule‘ als auch ihre enormen Auswirkungen auf Hofkapellen und Musikmetropolen offenlegen. Mit der Rekonstruktion der ‚Schule‘ im Kontext des Mäzenatentums, der Rezeption von Tartinis didaktischen Materialien und der europaweiten Verbreitung der Tartini-bezogenen Handschriften und Drucke wird das Forschungsteam drei zentrale Bereiche bearbeiten. Sie werden auf einer digitalen Plattform mit prosopographischen Daten aus Archivstudien, Musikkorpora der Schüler:innen und einer digitalen Edition von Tartinis pädagogischen Schriften zusammengeführt. Basierend auf einem durch Linked Open Data angereicherten Factoid-Datenmodell können Karrierewege der Schüler analysiert, musikalische Gattungen und Motive miteinander verglichen sowie Netzwerke oder Verbreitungswege musikalischen Wissens und der Scuola nachgezeichnet werden. Damit entsteht nicht nur eine digitale Ressource zu einer spezifischen ‚Schule‘ oder einer bestimmten Ausbildung und Tradition des Geigenspiels, sondern auch eine kosmopolitische Kartographie. Auf dieser Basis können national konturierte Historiographien einer ‚italienischen‘ oder ‚deutschen‘ Musiktradition weiter dekonstruiert werden. Neben Kooperationspartnern aus den Bereichen Digital Humanities (Grazer Geisteswissenschaftlichen Asset Management System GAMS, Transkribus, RISM) besteht das Projektteam aus sechs etablierten Musikforscherinnen mit komplementären Forschungserfahrungen, Sprachkompetenzen und Netzwerken aus fünf verschiedenen Ländern (Deutschland, Italien, Österreich, Schweiz, Slowenien). Die geplanten Projektoutputs umfassen die digitale Plattform, internationale Workshops, wissenschaftlich informierte Gesprächskonzerte, zwei englischsprachige Publikationen und ein gemeinsames universitäres Lehrangebot.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
